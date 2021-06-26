@@ -3,11 +3,15 @@
 ## Checkout my personal website!
 * https://maxmanayan.netlify.app/
 
-### My apps:
-* Coffee Notes (https://coffeeandnotes.herokuapp.com/)
+## My Apps:
+### Coffee Notes (https://coffeeandnotes.herokuapp.com/)
+* Your very own personalized study dashboard!
+* Includes a todo-list, kanban board, livestream music, and motivational quotes!
 
-### My Contributions:
-* DevPoint Labs Hackathon Grader (https://dpl-hackathon-grader.herokuapp.com/)
+
+## My Contributions:
+### DevPoint Labs Hackathon Grader (https://dpl-hackathon-grader.herokuapp.com/)
+* A streamlined hackathon grading app built exclusively for the staff of DevPoint Labs!
 
 <!--
 **maxmanayan/maxmanayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
