@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi I'm Max Manayan!
+
+## Checkout my personal website!
+* https://maxmanayan.netlify.app/
+
+### My apps:
+* Coffee Notes (https://coffeeandnotes.herokuapp.com/)
+
+### My Contributions:
+* DevPoint Labs Hackathon Grader (https://dpl-hackathon-grader.herokuapp.com/)
 
 <!--
 **maxmanayan/maxmanayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
