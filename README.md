@@ -1,4 +1,4 @@
-# Hi I'm Max Manayan! (https://maxmanayan.netlify.app/)
+# Hi I'm Max! (https://maxmanayan.netlify.app/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxmanayan&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Apps & Contributions:
