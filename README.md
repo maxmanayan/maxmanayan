@@ -1,13 +1,9 @@
-# Hi I'm Max Manayan!
-
-## Checkout my personal website!
-* https://maxmanayan.netlify.app/
+# Hi I'm Max Manayan! (https://maxmanayan.netlify.app/)
 
 ## My Apps:
 ### Coffee Notes (https://coffeeandnotes.herokuapp.com/)
 * Your very own personalized study dashboard!
 * Includes a todo-list, kanban board, livestream music, and motivational quotes!
-
 
 ## My Contributions:
 ### DevPoint Labs Hackathon Grader (https://dpl-hackathon-grader.herokuapp.com/)
