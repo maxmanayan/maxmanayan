@@ -1,4 +1,5 @@
 # Hi I'm Max Manayan! (https://maxmanayan.netlify.app/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxmanayan)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Apps:
 ### Coffee Notes (https://coffeeandnotes.herokuapp.com/)
@@ -8,10 +9,6 @@
 ## My Contributions:
 ### DevPoint Labs Hackathon Grader (https://dpl-hackathon-grader.herokuapp.com/)
 * A streamlined hackathon grading app built exclusively for the staff of DevPoint Labs!
-
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxmanayan)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **maxmanayan/maxmanayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
