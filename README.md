@@ -10,9 +10,9 @@
 * A streamlined hackathon grading app built exclusively for the staff of DevPoint Labs!
 
 ## Follow My Progression!
-* Courses I'm Working Through:
-  * The Complete JavaScript Course 2021 by Jonas Schmedtmann (https://www.udemy.com/course/the-complete-javascript-course/)
-  * (https://github.com/maxmanayan/javascript_course_2021)
+<!-- * Courses I'm Working Through: -->
+* The Complete JavaScript Course 2021 by Jonas Schmedtmann (https://www.udemy.com/course/the-complete-javascript-course/)
+  * https://github.com/maxmanayan/javascript_course_2021
 * Coding Challenges:
   * https://github.com/maxmanayan/brainteasers
 <!--
