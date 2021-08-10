@@ -4,7 +4,7 @@
 ## Apps & Contributions:
 ### Coffee Notes (https://coffeeandnotes.herokuapp.com/)
 * Your very own personalized study dashboard!
-* Includes a todo-list, kanban board, livestream music, and motivational quotes!
+* Includes a todo-list, kanban board, livestream music, motivational quotes, and flashcards!
 
 ### DevPoint Labs Hackathon Grader (https://dpl-hackathon-grader.herokuapp.com/)
 * A streamlined hackathon grading app built exclusively for the staff of DevPoint Labs!
