@@ -2,16 +2,16 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxmanayan&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Apps & Contributions:
-### ecoECHO (https://ecoecho.herokuapp.com/)
+### 🌲 ecoECHO (https://ecoecho.herokuapp.com/)
 * An online forum focused on discussing humanity's impact on our environment 🌎
 * Built with - MongoDB, Express.js, Node.js, React.js, GraphQL and Apollo
 
-### Coffee Notes (https://coffeeandnotes.herokuapp.com/)
+### ☕ Coffee Notes (https://coffeeandnotes.herokuapp.com/)
 * Your very own personalized study dashboard!
 * Includes a todo-list, kanban board, livestream music, motivational quotes, and flashcards!
 * Built with - PostgreSQL, Ruby on Rails, and React.js
 
-### DevPoint Labs Hackathon Grader (https://dpl-hackathon-grader.herokuapp.com/)
+### 💯 DevPoint Labs Hackathon Grader (https://dpl-hackathon-grader.herokuapp.com/)
 * A streamlined hackathon grading app built exclusively for the staff of DevPoint Labs!
 * Built with - PostgreSQL, Ruby on Rails, and React.js
 
