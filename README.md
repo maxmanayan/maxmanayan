@@ -21,7 +21,7 @@
   * https://github.com/maxmanayan/javascript_course_2021
 * Coding Challenges:
   * https://github.com/maxmanayan/brainteasers
-* Algorithms:
+* Data Structures & Algorithms:
   * https://github.com/maxmanayan/algo-practice
 <!--
 **maxmanayan/maxmanayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
